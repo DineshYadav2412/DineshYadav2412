@@ -12,6 +12,9 @@
   <a href="https://github.com/DineshYadav2412">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/dinesh-ramsunder-yadav/">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Facebook Badge"/>
+  </a>
   <a href="https://www.youtube.com/@technicaldinesh01">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
@@ -24,10 +27,11 @@
    <a href="https://x.com/Dinesh_Yadav24?t=hv3Xj22zXKfRlNd0QzoPRQ&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,java,c++,springboot,github,git,postman,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,mysql,python,github,git,postman,c,spring,eclipse,tailwind,maven,hibernate,&perline=5)](https://skillicons.dev)
 
 ![Dinesh Yadav GitHub stat](https://github-readme-stats.vercel.app/api?username=dineshyadav2412&show_icons=true&theme=dark)
 
