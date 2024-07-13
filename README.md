@@ -31,7 +31,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,mysql,python,github,git,postman,c,spring,eclipse,tailwind,maven,hibernate,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,mysql,python,github,git,postman,c,cpp,spring,eclipse,tailwind,maven,hibernate,vscode,cs,&perline=5)](https://skillicons.dev)
 
 ![Dinesh Yadav GitHub stat](https://github-readme-stats.vercel.app/api?username=dineshyadav2412&show_icons=true&theme=dark)
 
