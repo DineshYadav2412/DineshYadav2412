@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Spring Boot
 - 💬 Ask me anything about FrontEnd / Java
 - 📫 How to reach me: contactdineshyadav0@gmail.com
-- 😄 My website: https://dineshyadav2412.github.io/MyPortfolio/
+- 😄 My website: https://dineshyadav2412.github.io/dinesh-portfolio/
 - ⚡ Fun fact: I'm coming to teen
   
 ### Connect with me:
